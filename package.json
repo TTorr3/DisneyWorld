@@ -1,0 +1,21 @@
+{
+  "name": "disneyworld",
+  "version": "1.0.0",
+  "description": "Disney world API ",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./src/app.js"
+  },
+  "author": "TTorr3",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
