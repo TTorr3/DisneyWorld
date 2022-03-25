@@ -13,6 +13,7 @@ There is a Postman with many endpoints to try de API.
 - [Install](#install)
 - [Run](#run)
 - [Postman](#postman)
+- [ToDo-List](#ToDo-List)
 
 # Install
 
@@ -25,3 +26,9 @@ There is a Postman with many endpoints to try de API.
 # Routes protocol
 
 - https://go.postman.co/workspace/Personals-Projects~c9023aa8-2db7-4d65-9344-84f55e125779/collection/19841682-143f71aa-76c5-4349-999d-3e1ee10cfb73?action=share&creator=19841682
+
+# ToDo-List
+
+- Add associations between characters and movies.
+- Send emails with notifications abount the register.
+- Filter data with multiple parameters
