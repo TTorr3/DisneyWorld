@@ -23,9 +23,11 @@ There is a Postman with many endpoints to try de API.
 
 - `npm start`
 
-# Routes protocol
+# Postman
 
 - https://go.postman.co/workspace/Personals-Projects~c9023aa8-2db7-4d65-9344-84f55e125779/collection/19841682-143f71aa-76c5-4349-999d-3e1ee10cfb73?action=share&creator=19841682
+
+- https://www.getpostman.com/collections/f4cd0aab1ab76781d147
 
 # ToDo-List
 
